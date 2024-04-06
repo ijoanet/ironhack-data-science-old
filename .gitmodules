@@ -1,0 +1,3 @@
+[submodule "ds-consorci-notebooks"]
+	path = learning
+	url = https://github.com/ironhack-edu/ds-consorci-notebooks
