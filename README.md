@@ -6,11 +6,6 @@ Exercises can be found at `labs`.
 
 ## Getting started
 
-Sync `git submodules`
-```bash
-git submodule update --init --recursive
-```
-
 In MacOS, if you are using `homebrew` you will experience a hard time to download `python` packages.
 My suggestion is to use `conda` that allows you to create environments and download packages for your `python` applications.
 ```bash
