@@ -1,5 +1,9 @@
 name: ironhack-ds
 channels:
   - defaults
+  - conda-forge
 dependencies:
-  - notebook=7.0.8
+  # - notebook=7.0.8
+  - jupyterlab=5.0.0a0
+  - jupyterlab-lsp
+  - python-lsp-server
