@@ -19,14 +19,16 @@ conda init zsh
 
 Create an environment for this project, to avoid polluting your local machine
 ```bash
-conda create -f environment.yml
+conda create -n ironhack-ds
 # Activate environment
 conda activate ironhack-ds
+# Install packages
+conda install --channel conda-forge jupyterlab jupyterlab-lsp python-lsp-server
 ```
 
 Start Jupiter Notebook Server
 ```bash
-jupiter notebook
+jupiter lab
 ```
 
 
