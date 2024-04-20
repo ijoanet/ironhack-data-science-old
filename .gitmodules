@@ -1,0 +1,3 @@
+[submodule "projects/1-vikings"]
+	path = projects/1-vikings
+	url = https://github.com/ObedSAGA/mini-project-vikings-es
